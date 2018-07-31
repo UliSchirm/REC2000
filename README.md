@@ -1,6 +1,6 @@
 # REC2000
 
-This is a small python software which transfers data from Zeiss Elta total stations to a computer via serial to USB adapter cable.
+This is a small python software which transfers data from **Zeiss Elta** total stations to a computer via serial to USB adapter cable.
 
 ## Zeiss Elta
 
