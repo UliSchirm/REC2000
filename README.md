@@ -1,6 +1,6 @@
 # REC2000
 
-This is al small python software which transfers data from Zeiss Elta 13, 14, 15 tachymeter to a computer via serial to USB adapter.
+This is a small python software which transfers data from Zeiss Elta total stations to a computer via serial to USB adapter cable.
 
 ## Zeiss Elta
 
