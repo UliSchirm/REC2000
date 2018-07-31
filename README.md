@@ -15,7 +15,7 @@ Essentially, two different types were produced:
 * REC Elta 13, 14, 15
 * Elta 13, 14, 15
 
-The diffenrence is that the "REC" types were able to store data in the device, whereas the types without "REC" could only spend data on the fly.
+The diffenrence is that the "REC" types were able to store data in the device, whereas the types without "REC" could only spend data on the fly via serial port.
 Using this software, you are able to transfer data from the total station via serial port, using a serial/USB adapter to any PC.
 
 <img src="https://user-images.githubusercontent.com/21182528/43457630-c2737a54-94c7-11e8-88a5-0b3ea92c1d0a.jpg" width="600">
